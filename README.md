@@ -1,4 +1,4 @@
-# Efficiency Analysis of MRI-based Segmentation: A Regression Model and A Novel Algorithm for Discriminating Visceral and Somatic Abdominal Adipose Tissues for Otsu, K-means, and Fuzzy C-means Methods
+# Automated MRI Abdominal Fat Quantification: A Novel VAT/SAT Delineation Algorithm and Regression Correction of Otsu Segmentation, with Comparative Evaluation of K-Means and Fuzzy C-Means
 
 Authors: Mihai Octavian Negrea,[Bogdan Neamtu](mailto:bneamtu1@jh.edu?subject=[GitHub]MRI-VAT-SAT-Segmentation),Denisa Claudia Roman, Raluca Costea, Ciprian Șofariu, Darius Petelează
 
