@@ -23,7 +23,7 @@ NOTE: You should be able to use slightly different versions for the libraries th
 
 To execute the algorithms presented in this project you need to run their specific Jupyter Notekooks. You can also copy the code into simple .py files if you wish.
 
-The project is split into 4 different Jupyter Notebooks:
+The project is split into 5 different Jupyter Notebooks:
 - The Threshold algorithm: ```Threshold Algorithm.ipynb```
 - The Fuzzy C-means algorithm: ```Fuzzy C-means Algorithm.ipynb```
 - The K-means algorithm: ```K-means Algorithm.ipynb```
