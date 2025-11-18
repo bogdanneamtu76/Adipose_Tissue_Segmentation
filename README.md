@@ -1,5 +1,5 @@
 # MRI Abdominal Fat Segmentation with a Novel VAT/SAT Delineation Algorithm: Otsu Regression Calibration and Comparison to K-Means & Fuzzy C-Means
-Authors: Mihai Octavian Negrea,[Bogdan Neamtu](mailto:bneamtu1@jh.edu?subject=[GitHub]MRI-VAT-SAT-Segmentation),Denisa Claudia Roman, Raluca Costea, Ciprian Șofariu, Darius Petelează
+Authors: Mihai Octavian Negrea, [Bogdan Neamtu](mailto:bneamtu1@jh.edu?subject=[GitHub]MRI-VAT-SAT-Segmentation), Denisa Claudia Roman, Marius George Linguraru, Ioan Tincu, Minodora Teodoru, Ciprian Sofariu, Raluca Maria Costea, Darius Peteleaza
 
 If you wish to contact us regarding the code, please use the above click-able email link to contact Bogdan Neamtu.
 
@@ -28,7 +28,8 @@ The project is split into 5 different Jupyter Notebooks:
 - The Fuzzy C-means algorithm: ```Fuzzy C-means Algorithm.ipynb```
 - The K-means algorithm: ```K-means Algorithm.ipynb```
 - The Evaluation algorithm: ```Evaluation Algorithm.ipynb```
-- Inverse_weights regression:```Inverse_weights regression.ipynb```
+- The Inverse Weights regression: ```Inverse_weights.ipynb```
+
 ## Citation
 
 To cite our paper please use one of the following citation formats:
