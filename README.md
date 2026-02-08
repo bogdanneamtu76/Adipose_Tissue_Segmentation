@@ -1,5 +1,5 @@
 # MRI Abdominal Fat Segmentation with a Novel VAT/SAT Delineation Algorithm: Otsu Regression Calibration and Comparison to K-Means & Fuzzy C-Means
-Authors: Mihai Octavian Negrea, [Bogdan Neamtu](mailto:bneamtu1@jh.edu?subject=[GitHub]MRI-VAT-SAT-Segmentation), Denisa Claudia Roman, Marius George Linguraru, Ioan Tincu, Minodora Teodoru, Ciprian Sofariu, Raluca Maria Costea, Darius Peteleaza
+Authors: Mihai Octavian Negrea, [Bogdan Neamtu](mailto:bneamtu1@jh.edu?subject=[GitHub]MRI-VAT-SAT-Segmentation), Denisa Claudia Roman, Marius George Linguraru, Ciprian Sofariu, Raluca Maria Costea, Darius Peteleaza
 
 If you wish to contact us regarding the code, please use the above click-able email link to contact Bogdan Neamtu.
 
